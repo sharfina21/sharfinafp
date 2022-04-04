@@ -1,0 +1,136 @@
+/*XII RPL 1_31_SHARFINA FITRIANI PRAYOGA*/
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
+*{
+	margin:0; 
+	padding:0;
+}
+
+body{
+	background: linear-gradient(178.75deg, rgba(120, 192, 244, 0.85) 1.06%, rgba(255, 231, 231, 0.823256) 45.01%, rgba(49, 255, 243, 0.79) 94.35%);
+	background-blend-mode: darken;
+	font-family: poppins, sans-serif;
+}
+
+
+
+.wrapper{
+	width: 500px; 
+	margin: auto; 
+	padding: 20px; 
+	margin-top: 20px;
+	margin-top: 100px;
+	background: #f0fff0;
+	border-radius: 10px;
+	box-shadow: 1px 2px 8px rgba(0, 0, 0, 0.65);
+	border: 12px ;
+	font-family: poppins;
+}
+
+h2{
+	padding: 5px; 
+	margin-bottom: 5px; 
+	text-align: center;
+}
+
+td{
+	color: #000;
+}
+
+table{
+	width: 500px; 
+	background: #f0fff0; 
+	border-radius: 8px;
+}
+
+input[type="text"]{
+	width: 325px; 
+	padding: 10px; 
+	border-radius: 5px; 
+	border: 1px solid black; 
+	margin: 8px 0;
+}
+
+input[type="date"]{
+	width: 325px; 
+	padding: 10px; 
+	border-radius: 5px; 
+	border: 1px solid black; 
+	margin: 8px 0;
+}
+
+select{
+	width: 348px; 
+	padding: 10px; 
+	border-radius: 5px; 
+	border: 1px solid black; 
+	margin: 8px 0;
+}
+
+input[type="submit"]{
+	width: 100px; 
+	padding: 8px; 
+	border-radius: 5px; 
+	color: #fff; 
+	background: #1e90ff; 
+	border: 6px; 
+	box-shadow: 1px 2px 8px rgba(0, 0, 0, 0.65);
+	font-size: 18px; 
+	font-weight: bold; 
+	margin: 10px 0;
+	margin-left: 145px;
+}
+.container{
+	margin: 30px;
+	width: 800px;
+	height: auto;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	background: #f0fff0;
+	border-radius: 10px;
+	box-shadow: 1px 2px 8px rgba(0, 0, 0, 0.65);
+	border: 12px ;
+}
+
+.mapel{
+	background: cornflowerblue;
+	border-radius: 10px;
+}
+
+.mapel h1{
+	text-align: center;
+	font-size: 28px;
+	padding: 5px;
+}
+
+.keterangan{
+	color: red;
+	text-align: center;
+	margin-bottom: 15px;
+	font-weight: bold;
+	font-size: 28px;
+}
+
+.notice p{
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+.hasil{
+	background-color: white;
+	width: 150px;
+	font-size: 45px;
+	padding: 30px 0px;
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	border-radius: 8px;
+	box-shadow: 2px 2px 4px #7e7e7e;
+
+}
+
+.text{
+	text-align: center;
+	font-size: 24px;
+	margin: 10px;
+}
